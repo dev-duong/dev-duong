@@ -28,7 +28,7 @@ Here are some of the skills and technologies I work with:
 
 - **Languages**: Python, C#, Javascript, HTML, CSS
 - **Frameworks**: React
-- **Tools**: Git, Figma, Adobe Softwares
+- **Tools**: Git, Github, Adobe, Figma, Visual Studio, Visual Studio Code, Notion
 - **Other**: UI/UX Design
 
 ## Contact
