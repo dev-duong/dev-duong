@@ -10,7 +10,6 @@ I'm a fourth year Computer Science student at [QUT](https://www.qut.edu.au/cours
 
 ## Table of Contents
 
-- [About Me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
