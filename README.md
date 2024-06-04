@@ -6,7 +6,7 @@ Welcome to my Github page.
 
 ## About Me
 
-I'm a Computer Science Graduate from [QUT](https://www.qut.edu.au/courses/bachelor-of-information-technology-computer-science). I have a passion for design and front-end development. I enjoy working on innovative projects and always strive to improve my skills and learn new things.
+I'm a Computer Science graduate from [QUT](https://www.qut.edu.au/courses/bachelor-of-information-technology-computer-science). I have a passion for design and front-end development. I enjoy working on innovative projects and always strive to improve my skills and learn new things.
 
 ## Table of Contents
 
