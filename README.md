@@ -21,6 +21,8 @@ Here are a few of the projects I've been working on:
 1. **Personal Portfolio**
    - Description: A curated showcase of my designs, code, and projects reflecting my skills, passion, and professional growth.
    - [Personal Portfolio Website](https://git-dand.github.io/)
+2. **Web-Based Calculator**
+   - Description: A web-based calculator built using HTML, CSS, and JavaScript, providing basic arithmetic functionality with a user-friendly interface.
 
 ## Skills
 
