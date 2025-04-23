@@ -38,8 +38,7 @@ Here are a few of the projects I've been working on:
 
 ### 5. **Web-Based Calculator**
 
-- **Description**: A simple, responsive calculator built with HTML, CSS, and JavaScript.  
-  It performs basic arithmetic and features a clean, user-friendly interface.
+- **Description**: A simple, responsive calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic and features a clean, user-friendly interface.
 
 ### 6. **Savings Calculator**
 
