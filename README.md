@@ -55,7 +55,7 @@ Here are a few of the projects I've been working on:
 Here are some of the technologies and tools I work with:
 
 - **Languages**: Python, C#, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: ReactJS
+- **Frameworks & Libraries**: ReactJS, Tailwind CSS
 - **Tools**: Git, GitHub, Adobe Suite, Figma, Visual Studio, VS Code, Notion
 - **Other**: UI/UX Design, Wireframing, Responsive Layouts
 
