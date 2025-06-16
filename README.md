@@ -30,25 +30,17 @@ Here are a few of the projects I've been working on:
 
 - A fictional travel site demonstrating responsive design principles, layout grids, and visual hierarchy.
 
-### 4. [**Mobile Website Portfolio**](https://github.com/dev-duong/Mobile-Website-Portfolio)
+### 4. [**Mobile Website Portfolio**](https://dev-duong.github.io/mobile-portfolio/)
 
 - A mobile-first portfolio site designed for smooth performance and readability on smartphones.
 
-### 5. [**Web-Based Calculator**](https://github.com/dev-duong/Web-Calculator)
+### 5. [**Web-Based Calculator**](https://dev-duong.github.io/calculator/)
 
 - A simple, responsive calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic and features a clean, user-friendly interface.
 
-### 6. [**Savings Calculator**](https://github.com/dev-duong/savingsCalculator)
+### 6. [**Linktree-like Profile Card**](https://dev-duong.github.io/profile-card/)
 
-- An interactive tool that helps users estimate how much they can split their income by percentage.
-
-### 7. [**Text Based Terminal Game**](https://github.com/dev-duong/firstQuest)
-
-- A command-line adventure game built in Python, featuring dialogue choices and interactive storytelling.
-
-### 8. [**Unity Basket Game**](https://github.com/dev-duong/CatchGame)
-
-- A fun arcade-style game built in Unity, where players catch falling objects using physics-based movement.
+- A simple web profile card built using HTML, CSS, and JavaScript. Acts similarly to Linktree.
 
 ## 🛠️ Skills
 
