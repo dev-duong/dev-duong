@@ -26,7 +26,7 @@ Here are a few of the projects I've been working on:
 
 - A simple portfolio built with just HTML and CSS to highlight core front-end structure and styling.
 
-### 3. [**Responsive Travel Website**](https://github.com/dev-duong/Resposive-Travel-Website)
+### 3. [**Responsive Travel Website**](https://dev-duong.github.io/Resposive-Travel-Website/)
 
 - A fictional travel site demonstrating responsive design principles, layout grids, and visual hierarchy.
 
