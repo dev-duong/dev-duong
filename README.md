@@ -17,12 +17,12 @@ Always striving to learn new things and refine my craft.
 
 Here are a few of the projects I've been working on:
 
-### 1. [**ReactJS/Tailwind Portfolio**](https://github.com/dev-duong/dev-duong.github.io)
+### 1. [**ReactJS/Tailwind Portfolio**](https://dev-duong.github.io)
 
 - A modern, responsive personal portfolio built with React and Tailwind CSS. Showcases my projects, skills, and contact info.
 - 🔗 [Live Site](https://dev-duong.github.io/)
 
-### 2. [**HTML/CSS Portfolio**](https://github.com/dev-duong/dev-duong.github.io-old)
+### 2. [**HTML/CSS Portfolio**](https://dev-duong.github.io/portfolio-v1/)
 
 - A simple portfolio built with just HTML and CSS to highlight core front-end structure and styling.
 
