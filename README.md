@@ -55,7 +55,7 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out to me here:
 
-- **Email**: [bren.dandxyz@gmail.com](mailto:bren.dandxyz@gmail.com)
+- **Email**: [bren.dandxyz@gmail.com](mailto:datduong.contact@gmail.com)
 - **LinkedIn**: [Dat Tan Duong](https://www.linkedin.com/in/dat-tan-duong/)
 
 Thanks for stopping by — see you in the code!
